@@ -1,4 +1,18 @@
-## Hi there 👋
+My GitHub Information.
+
+My interests are in mechanical design and simulation.
+
+#### 3D Solids Modelling
+  * CADKEY
+  * PTC Pro/ENGINEER
+  * Dassault CATIA
+  * Autodesk Inventor
+      
+#### Numerical Methods
+  * Excel
+  * Julia
+  * ANSYS
+
 
 <!--
 **PDCNotes/PDCNotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
