@@ -25,11 +25,6 @@ My interests are in mechanical design and simulation.
 * Batch
 * Powershell
 
-| #### 3D Solids Modelling  | #### Computational Mechanics  |
-|   * CADKEY                | * Excel                       |
-|   * PTC Pro/ENGINEER      | * Julia                       |
-|   * Dassault CATIA        | * ANSYS                       |
-|   * Autodesk Inventor     |                               |
 
 
 <!--
