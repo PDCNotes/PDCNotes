@@ -1,6 +1,4 @@
-My GitHub Information.
-
-My interests are in mechanical design and simulation.
+My GitHub Mechanical Design and Simulation Information.
 
 #### 3D Solids Modelling
 * CADKEY
