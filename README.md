@@ -8,11 +8,17 @@ My interests are in mechanical design and simulation.
   * Dassault CATIA
   * Autodesk Inventor
       
-#### Numerical Methods
+#### Computational Mechanics
   * Excel
   * Julia
   * ANSYS
 
+#### Numerical Methods
+  * Polynomials
+  * Vectors
+  * Tensors
+  * Matrics
+  * Eigenvalues/Eigenvectors
 
 <!--
 **PDCNotes/PDCNotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
