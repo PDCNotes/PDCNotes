@@ -12,6 +12,7 @@ My interests are in mechanical design and simulation.
 * Excel
 * Julia
 * ANSYS
+* Stress/Strain/Displacement
 
 #### Numerical Methods
 * Polynomials
