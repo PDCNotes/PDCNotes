@@ -1,5 +1,8 @@
 My GitHub Mechanical Design and Simulation Information.
 
+[Repositoiries](https://github.com/PDCNotes?tab=repositories)
+[Gists](https://gist.github.com/PDCNotes)
+
 #### 3D Solids Modelling
 * CADKEY
 * PTC Pro/ENGINEER
